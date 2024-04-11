@@ -25,6 +25,7 @@ slice messages you want to parse
 
 From client side receive email from yandex.ru and mail.ru at a time. No code in the repo. just demo. Enjoy 1 min video:
 
-[Screencast from 08.04.2024 02:59:58.webm](https://github.com/Andreymazo/EmailManager/assets/116811819/62fb2f19-c1e8-445b-8c14-5f5af584677e)
+[Screencast from 11.04.2024 03:08:50.webm](https://github.com/Andreymazo/EmailManager/assets/116811819/d83adbde-3cc3-4473-bb73-52c3d221c9a2)
+
 
 
